@@ -1,2 +1,3 @@
 ragenv
 .env
+data/faiss_index
