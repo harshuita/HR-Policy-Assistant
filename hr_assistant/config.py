@@ -9,7 +9,7 @@ JINA_API_KEY=os.getenv("JINA_API_KEY")
 
 VECTOR_STORE_PATH=os.path.join("data","faiss_index")
 
-
+DATA_FILE_PATH=os.path.join("data", "hr_policy.txt")
 LLM_MODEL_NAME="openai/gpt-oss-120b"
 EMBEDDING_MODEL_NAME="jina-embeddings-v2-base-en"
 
